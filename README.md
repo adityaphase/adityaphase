@@ -22,5 +22,5 @@ Visitor counter:
 
 <img src="https://count.getloli.com/get/@adityaphase?theme=moebooru" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaphase.adityaphase)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaphase.adityaphase) -->
 
