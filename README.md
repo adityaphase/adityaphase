@@ -1,4 +1,4 @@
-## Work in progress
+## Hey, I'm Aditya
 
 <!--
 **adityaphase/adityaphase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Thanks for visitng my profile. 
+
+
 Visitor counter:
 
 <img src="https://count.getloli.com/get/@adityaphase?theme=moebooru" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaphase.adityaphase)
 
