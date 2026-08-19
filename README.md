@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 Thanks for visitng my profile. 
 
 
-Visitor counter:
-
-<img src="https://count.getloli.com/get/@adityaphase?theme=moebooru" />
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaphase.adityaphase) -->
 
